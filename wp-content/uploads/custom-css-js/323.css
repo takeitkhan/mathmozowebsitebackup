@@ -1,0 +1,58 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.elementor-icon:hover {
+    color: #2467f4;
+}
+
+.elementor-widget-heading .elementor-heading-title.elementor-size-large {
+    font-size: 25px !important;
+	line-height: 35px !important;
+}
+
+a.cta_btn {
+	border: 2px solid #25D366;
+	width: 230px;
+}
+.call_to_action_dim {
+	position: relative;
+	overflow: hidden;
+}
+.call_to_action_dim .elementor-background-overlay:after {
+    content: "";
+    background-color: #000000ab;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.call_to_action_dim .elementor-size-sm {
+	font-size: 18px;
+    padding: 8px 20px;
+	min-width: 175px;
+}
+
+.call_to_action_dim .whatsapp_btn a {
+    background: #2EB943;
+}
+.call_to_action_dim .whatsapp_btn a:hover {
+    background: #289338;
+    color: #fff !important;
+}
+.call_to_action_dim .mathmozo_btn a {
+    background-color: #2467f4 !important;
+    color: #fff !important;
+}
+.call_to_action_dim .mathmozo_btn a:hover {
+    background: #1f54c3  !important;
+    color: #fff !important;
+}
+.call_to_action_dim .mathmozo_chat_btn a {
+    background-color: #e17100 !important;
+    color: #fff !important;
+}
+.call_to_action_dim .mathmozo_chat_btn a:hover {
+    background: #b75c00 !important;
+    color: #fff !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
